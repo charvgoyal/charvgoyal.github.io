@@ -24,3 +24,17 @@ footer {
 
 ul, ol { margin-bottom: 0.5em; }
 
+.two-column {
+  display: flex;
+  align-items: center;   /* vertically center items */
+  gap: 20px;             /* space between image and text */
+}
+
+.two-column img {
+  width: 40%;            /* adjust size */
+  max-width: 300px;
+}
+
+.two-column .text {
+  flex: 1;
+}
