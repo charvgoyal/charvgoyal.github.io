@@ -1,9 +1,14 @@
-# Charvi Goyal
-
-**Email:** cgoyal [at] caltech [dot] edu  
-**Personal Email:** charvi [dot] goyal [at] gmail [dot] com 
-
-[LinkedIn](https://www.linkedin.com/in/charvgoyal/) · [CV](cv_112825.pdf) (Updated Nov 2025)
+<div class="header-section">
+  <div class="header-text">
+    <h1>Charvi Goyal</h1>
+    <p><strong>Email:</strong> cgoyal [at] caltech [dot] edu<br>
+    <strong>Personal Email:</strong> charvi [dot] goyal [at] gmail [dot] com</p>
+    <p>[LinkedIn](https://www.linkedin.com/in/charvgoyal/) · [CV](cv_112825.pdf) (Updated Nov 2025)</p>
+  </div>
+  <div class="header-photo">
+    <img src="photo.JPG" alt="Charvi Goyal">
+  </div>
+</div>
 
 ---
 
