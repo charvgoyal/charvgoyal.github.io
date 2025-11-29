@@ -24,6 +24,32 @@ footer {
 
 ul, ol { margin-bottom: 0.5em; }
 
+/* Reduce spacing between paragraphs within list items */
+li p {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+/* Small spacing between consecutive paragraphs in list items (allows line breaks) */
+li p + p {
+  margin-top: 0.5em;
+}
+
+/* Ensure no extra margin at the end of list items */
+li p:last-child {
+  margin-bottom: 0;
+}
+
+/* Reduce spacing for other block elements within list items */
+li > *:first-child {
+  margin-top: 0;
+}
+
+li > *:last-child {
+  margin-bottom: 0;
+}
+
 .two-column {
   display: flex;
   align-items: center;   /* vertically center items */
@@ -62,9 +88,9 @@ ul, ol { margin-bottom: 0.5em; }
   flex-shrink: 0;
   /* CSS variables for easy adjustment */
   --photo-size: 180px;
-  --photo-scale: 1.3;           /* Scale: 1 = normal, >1 = zoom in, <1 = zoom out */
-  --photo-position-x: 50%;    /* Horizontal position: 0% = left, 50% = center, 100% = right */
-  --photo-position-y: 40%;    /* Vertical position: 0% = top, 50% = center, 100% = bottom */
+  --photo-scale: 1.35;           /* Scale: 1 = normal, >1 = zoom in, <1 = zoom out */
+  --photo-position-x: 47%;    /* Horizontal position: 0% = left, 50% = center, 100% = right */
+  --photo-position-y: 37%;    /* Vertical position: 0% = top, 50% = center, 100% = bottom */
   --photo-fit: cover;         /* Options: cover, contain, fill, scale-down, none */
 }
 

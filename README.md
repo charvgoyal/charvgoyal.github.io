@@ -33,6 +33,7 @@ Please reach out if you are interested in chatting about computer science, quant
   **Charvi Goyal**, Sam B. Ponnada, Philip F. Hopkins, Sarah Wellons, Iryna S. Butsky, Jose A. Benavides, and FIRE Collaboration  
 
   Publications of the Astronomical Society of the Pacific
+  
   \[[draft](./papers/Effects_of_AGN_Cosmic_Rays_on_CGM.pdf)\] (under final internal review)
 
 ---
