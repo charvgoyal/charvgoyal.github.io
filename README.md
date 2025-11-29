@@ -20,6 +20,7 @@ Please reach out if you are interested in chatting about computer science, quant
 - *A quasi-polynomial-time classical algorithm for Lindbladian evolution*, expected 2026
 
   **Charvi Goyal**, Thomas Schuster, and John Preskill 
+  
   \[[draft](./papers/classical_algorithm_for_lindbladians.pdf)\] (extension in progress)
 
 - *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, expected December 2025 / January 2026 
