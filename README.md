@@ -2,6 +2,7 @@
 
 **Email:** cgoyal [at] caltech [dot] edu  
 **Personal Email:** charvi [dot] goyal [at] gmail [dot] com 
+
 [LinkedIn](https://www.linkedin.com/in/charvgoyal/) · [CV](cv_112825.pdf) (Updated Nov 2025)
 
 ---
@@ -16,22 +17,27 @@ Please reach out if you are interested in chatting about computer science, quant
 
 ## Manuscripts   
 
-- *A quasi-polynomial-time classical algorithm for Lindbladian evolution*, Expected 2026
-  **Charvi Goyal**, Thomas Schuster, and John Preskill 
-  \[[draft](./papers/classical_algorithm_for_lindbladians.pdf)\] (Extension in progress)
+- *A quasi-polynomial-time classical algorithm for Lindbladian evolution*, expected 2026
 
-- *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, Expected December 2025 / January 2026   
+  **Charvi Goyal**, Thomas Schuster, and John Preskill 
+  \[[draft](./papers/classical_algorithm_for_lindbladians.pdf)\] (extension in progress)
+
+- *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, expected December 2025 / January 2026 
+
   **Charvi Goyal**, Sam B. Ponnada, Philip F. Hopkins, Sarah Wellons, Iryna S. Butsky, Jose A. Benavides, and FIRE Collaboration  
+
   Publications of the Astronomical Society of the Pacific
-  \[[draft](./papers/Effects_of_AGN_Cosmic_Rays_on_CGM.pdf)\] (Under final internal review)
+  \[[draft](./papers/Effects_of_AGN_Cosmic_Rays_on_CGM.pdf)\] (under final internal review)
 
 ---
 
 ## Talks
 
 - **A quasi-polynomial-time classical algorithm for Lindbladian evolution** · \[[slides](./slides/classical_algorithm_for_lindbladians_slides.pdf)\]   
-  - Caltech Summer Undergraduate Research Fellowship Seminar, August 2025
+
+Caltech Summer Undergraduate Research Fellowship Seminar, August 2025
 
 - **Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties** · \[[slides](./slides/Galaxy%20Quenching%20in%20FIRE-3%20by%20AGN%20Cosmic%20Ray%20Feedback.pdf)\]   
-  - Caltech Summer Undergraduate Research Fellowship Seminar, August 2023
+
+Caltech Summer Undergraduate Research Fellowship Seminar, August 2023
 
