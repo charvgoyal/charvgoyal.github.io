@@ -22,32 +22,29 @@ footer {
   color: red;
 }
 
-ul, ol { margin-bottom: 0.5em; }
 
-/* Reduce spacing between paragraphs within list items */
-li p {
+/* Target only Manuscripts and Talks sections - keep spacing between list items (bullets) large */
+.manuscripts-section + ul li,
+.talks-section + ul li {
+  margin-bottom: 1.2em;  /* Keep large spacing between bullets */
+}
+
+/* Reduce spacing between paragraphs and text within each list item in Manuscripts/Talks */
+.manuscripts-section + ul li p,
+.talks-section + ul li p,
+.manuscripts-section + ul li > *,
+.talks-section + ul li > * {
   margin-top: 0;
   margin-bottom: 0;
   line-height: 1.6;
 }
 
-/* Small spacing between consecutive paragraphs in list items (allows line breaks) */
-li p + p {
-  margin-top: 0.5em;
-}
-
-/* Ensure no extra margin at the end of list items */
-li p:last-child {
-  margin-bottom: 0;
-}
-
-/* Reduce spacing for other block elements within list items */
-li > *:first-child {
-  margin-top: 0;
-}
-
-li > *:last-child {
-  margin-bottom: 0;
+/* Small spacing between consecutive paragraphs/elements in list items (allows line breaks) */
+.manuscripts-section + ul li p + p,
+.talks-section + ul li p + p,
+.manuscripts-section + ul li > * + *,
+.talks-section + ul li > * + * {
+  margin-top: 0.3em;
 }
 
 .two-column {
@@ -89,7 +86,7 @@ li > *:last-child {
   /* CSS variables for easy adjustment */
   --photo-size: 180px;
   --photo-scale: 1.35;           /* Scale: 1 = normal, >1 = zoom in, <1 = zoom out */
-  --photo-position-x: 47%;    /* Horizontal position: 0% = left, 50% = center, 100% = right */
+  --photo-position-x: 50%;    /* Horizontal position: 0% = left, 50% = center, 100% = right */
   --photo-position-y: 37%;    /* Vertical position: 0% = top, 50% = center, 100% = bottom */
   --photo-fit: cover;         /* Options: cover, contain, fill, scale-down, none */
 }

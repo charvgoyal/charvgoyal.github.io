@@ -21,6 +21,7 @@ Please reach out if you are interested in chatting about computer science, quant
 ---
 
 ## Manuscripts   
+{: .manuscripts-section}
 
 - *A quasi-polynomial-time classical algorithm for Lindbladian evolution*, expected 2026
 
@@ -39,6 +40,7 @@ Please reach out if you are interested in chatting about computer science, quant
 ---
 
 ## Talks
+{: .talks-section}
 
 - **A quasi-polynomial-time classical algorithm for Lindbladian evolution** · \[[slides](./slides/classical_algorithm_for_lindbladians_slides.pdf)\]   
 
