@@ -58,15 +58,26 @@ ul, ol { margin-bottom: 0.5em; }
 
 .header-photo {
   flex-shrink: 0;
+  /* CSS variables for easy adjustment */
+  --photo-size: 200px;
+  --photo-scale: 1.2;           /* Scale: 1 = normal, >1 = zoom in, <1 = zoom out */
+  --photo-position-x: 50%;    /* Horizontal position: 0% = left, 50% = center, 100% = right */
+  --photo-position-y: 45%;    /* Vertical position: 0% = top, 50% = center, 100% = bottom */
+  --photo-fit: cover;         /* Options: cover, contain, fill, scale-down, none */
 }
 
 .header-photo img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
+  width: var(--photo-size);
+  height: var(--photo-size);
+  object-fit: var(--photo-fit);
+  object-position: var(--photo-position-x) var(--photo-position-y);
+  transform: scale(var(--photo-scale));
   border-radius: 50%;  /* Circular mask - change to 0 for square */
-  border: 3px solid #ddd;
+  border: 0px solid #ddd;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  /* Ensure the circular mask is maintained even with scaling */
+  overflow: hidden;
+  display: block;
 }
 
 /* Responsive design for smaller screens */
@@ -80,8 +91,7 @@ ul, ol { margin-bottom: 0.5em; }
     text-align: center;
   }
   
-  .header-photo img {
-    width: 150px;
-    height: 150px;
+  .header-photo {
+    --photo-size: 150px;
   }
 }
