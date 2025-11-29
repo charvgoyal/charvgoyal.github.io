@@ -1,40 +1,37 @@
-# Akshar Ramkumar
+# Charvi Goyal
 
-**Email:** aramkuma [at] caltech [dot] edu  
-[Google Scholar](https://scholar.google.com/citations?user=u-EWI-wAAAAJ) · [CV](./cv.pdf)
+**Email:** cgoyal [at] caltech [dot] edu  
+**Personal Email:** charvi [dot] goyal [at] gmail [dot] com 
+[LinkedIn](https://www.linkedin.com/in/charvgoyal/) · [CV](cv_112825.pdf) (Updated Nov 2025)
 
 ---
 
 ## About
 
-I am a fourth-year undergraduate at Caltech, majoring in mathematics! I am passionate about all kinds of theoretical math, especially algebraic geometry and number theory. Most recently, I have been learning more Hodge theory, and I am excited to take a class about local Langlands later this year. I really love quantum computing as well – over the last several years, I've worked on research projects related to quantum Gibbs sampling, as well as the cryptographic applications and complexity of quantum error correction. I am also fascinated by the types of mathematical structures and tasks for which quantum computers are well-suited, and the possibility of yet undiscovered quantum exponential speedups. For my senior thesis, I am exploring research questions along these lines. 
+I'm a fourth-year undergraduate at Caltech, majoring in computer science. I am interested in thoeretical quantum computation, quantum algorithms, and classical algorithms for quantum systems. My mativation for quantum computing research stems from the potential for fundemental exponential speedups and the possibility of actualizing that potential near-term. Previously, I have dabbled in machine learning and theoretical astrophysics as well.
 
-Please reach out if you are interested in chatting, about math, quantum computing, or anything else!
+Please reach out if you are interested in chatting about computer science, quantum computing, or anything else!
 
 ---
 
 ## Manuscripts   
-(For manuscript with red bullet points, all authors have equal contribution and are listed in alphabetical order).
 
-- {: .red-bullets}
-  *Average-Case Complexity of Quantum Stabilizer Decoding*, September 2025    
-  Andrey Boris Khesin, Jonathan Z. Lu, Alexander Poremba, **Akshar Ramkumar**, Vinod Vaikuntanathan  
-  \[QIP 2026 Contributed Talk\], \[[Arxiv:2509.20697](https://arxiv.org/pdf/2509.20697)\]
+- *A quasi-polynomial-time classical algorithm for Lindbladian evolution*, Expected 2026
+  **Charvi Goyal**, Thomas Schuster, and John Preskill 
+  \[[draft](./papers/classical_algorithm_for_lindbladians.pdf)\] (Extension in progress)
 
-- *High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States*, May 2025  
-  **Akshar Ramkumar**, Yiyi Cai, Yu Tong, Jiaqing Jiang   
-  \[QIP 2026 Contributed Talk\], \[[Arxiv:2505.09730](https://arxiv.org/pdf/2505.09730)\]
-
-- *Mixing time of quantum Gibbs sampling for random sparse Hamiltonians*, November 2024    
-  **Akshar Ramkumar**, Mehdi Soleimanifar  
-  \[TQC 2025 Contributed Talk\], \[[Arxiv:2411.04454](https://arxiv.org/pdf/2411.04454)\]
+- *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, Expected December 2025 / January 2026   
+  **Charvi Goyal**, Sam B. Ponnada, Philip F. Hopkins, Sarah Wellons, Iryna S. Butsky, Jose A. Benavides, and FIRE Collaboration  
+  Publications of the Astronomical Society of the Pacific
+  \[[draft](./papers/Effects_of_AGN_Cosmic_Rays_on_CGM.pdf)\] (Under final internal review)
 
 ---
 
 ## Talks
 
-- **High-Temperature Fermionic Gibbs States are Mixtures of Gaussian States**  (upcoming)
-  - Quantum Information Processing (QIP), January 2026
-- **Mixing time of quantum Gibbs sampling for random sparse Hamiltonians** · \[[slides](./slides/tqc_presentation_2025.pptx)\] · \[[video](https://www.youtube.com/watch?v=HQvTBtaSHbI)\]  
-  - Theory of Quantum Computation, Communication and Cryptography (TQC), September 2025
+- **A quasi-polynomial-time classical algorithm for Lindbladian evolution** · \[[slides](./slides/classical_algorithm_for_lindbladians_slides.pdf)\]   
+  - Caltech Summer Undergraduate Research Fellowship Seminar, August 2025
+
+- **Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties** · \[[slides](./slides/Galaxy%20Quenching%20in%20FIRE-3%20by%20AGN%20Cosmic%20Ray%20Feedback.pdf)\]   
+  - Caltech Summer Undergraduate Research Fellowship Seminar, August 2023
 
