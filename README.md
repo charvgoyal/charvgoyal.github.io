@@ -9,7 +9,7 @@
 
 ## About
 
-I'm a fourth-year undergraduate at Caltech, majoring in computer science. I am interested in thoeretical quantum computation, quantum algorithms, and classical algorithms for quantum systems. My mativation for quantum computing research stems from the potential for fundemental exponential speedups and the possibility of actualizing that potential near-term. Previously, I have dabbled in machine learning and theoretical astrophysics as well.
+I'm a fourth-year undergraduate at Caltech, majoring in computer science. I am interested in thoeretical quantum computation, quantum algorithms, and classical algorithms for quantum systems. My motivation for these research interests stems from the potential for exponential speedups with quantum computers and the possibility of actualizing that potential near-term. Previously, I have dabbled in machine learning and theoretical astrophysics as well.
 
 Please reach out if you are interested in chatting about computer science, quantum computing, or anything else!
 
@@ -35,9 +35,9 @@ Please reach out if you are interested in chatting about computer science, quant
 
 - **A quasi-polynomial-time classical algorithm for Lindbladian evolution** · \[[slides](./slides/classical_algorithm_for_lindbladians_slides.pdf)\]   
 
-Caltech Summer Undergraduate Research Fellowship Seminar, August 2025
+  Caltech Summer Undergraduate Research Fellowship Seminar, August 2025
 
 - **Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties** · \[[slides](./slides/Galaxy%20Quenching%20in%20FIRE-3%20by%20AGN%20Cosmic%20Ray%20Feedback.pdf)\]   
 
-Caltech Summer Undergraduate Research Fellowship Seminar, August 2023
+  Caltech Summer Undergraduate Research Fellowship Seminar, August 2023
 
