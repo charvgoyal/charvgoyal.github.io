@@ -29,7 +29,7 @@ Please reach out if you are interested in chatting about computer science, quant
   
   \[[draft](./papers/classical_algorithm_for_lindbladians.pdf)\] (extension in progress)
 
-- *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, expected December 2025 / January 2026 
+- *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, expected 2025 
 
   **Charvi Goyal**, Sam B. Ponnada, Philip F. Hopkins, Sarah Wellons, Iryna S. Butsky, Jose A. Benavides, and FIRE Collaboration  
 
