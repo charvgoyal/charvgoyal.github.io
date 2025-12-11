@@ -3,7 +3,7 @@
     <h1>Charvi Goyal</h1>
     <p><strong>Email:</strong> cgoyal [at] caltech [dot] edu<br>
     <strong>Personal Email:</strong> charvi [dot] goyal [at] gmail [dot] com</p>
-    <p><a href="https://www.linkedin.com/in/charvgoyal/">LinkedIn</a> · <a href="cv_112925.pdf">CV</a> (Updated Nov 2025)</p>
+    <p><a href="https://www.linkedin.com/in/charvgoyal/">LinkedIn</a> · <a href="cv_121125.pdf">CV</a> (Updated Dec 2025)</p>
   </div>
   <div class="header-photo">
     <img src="photo.JPG" alt="Charvi Goyal">
@@ -35,7 +35,7 @@ Please reach out if you are interested in chatting about computer science, quant
 
   Publications of the Astronomical Society of the Pacific
 
-  \[[draft](./papers/Effects_of_AGN_Cosmic_Rays_on_CGM.pdf)\] (under final internal review)
+  \[[draft](./papers/Effects_of_AGN_Cosmic_Rays_on_CGM.pdf)\] (submitted)
 
 ---
 
