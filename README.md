@@ -3,7 +3,7 @@
     <h1>Charvi Goyal</h1>
     <p><strong>Email:</strong> cgoyal [at] caltech [dot] edu<br>
     <strong>Personal Email:</strong> charvi [dot] goyal [at] gmail [dot] com</p>
-    <p><a href="https://www.linkedin.com/in/charvgoyal/">LinkedIn</a> · <a href="cv_121125.pdf">CV</a> (Updated Dec 2025)</p>
+    <p><a href="https://www.linkedin.com/in/charvgoyal/">LinkedIn</a> · <a href="cv_121325.pdf">CV</a> (Updated Dec 2025)</p>
   </div>
   <div class="header-photo">
     <img src="photo.JPG" alt="Charvi Goyal">
@@ -31,11 +31,11 @@ Please reach out if you are interested in chatting about computer science, quant
 
 - *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, expected 2025 
 
-  **Charvi Goyal**, Sam B. Ponnada, Philip F. Hopkins, Sarah Wellons, Iryna S. Butsky, Jose A. Benavides, and FIRE Collaboration  
+  **Charvi Goyal**, Sam B. Ponnada, Philip F. Hopkins, Sarah Wellons, Jose A. Benavides, and Kung-Yi Su
 
   Publications of the Astronomical Society of the Pacific
 
-  \[[draft](./papers/Effects_of_AGN_Cosmic_Rays_on_CGM.pdf)\] (submitted)
+  \[[draft](./papers/varied_CR_feedback_FIRE.pdf)\] (submitted for peer review)
 
 ---
 
