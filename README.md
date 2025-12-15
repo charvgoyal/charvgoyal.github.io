@@ -3,7 +3,7 @@
     <h1>Charvi Goyal</h1>
     <p><strong>Email:</strong> cgoyal [at] caltech [dot] edu<br>
     <strong>Personal Email:</strong> charvi [dot] goyal [at] gmail [dot] com</p>
-    <p><a href="https://www.linkedin.com/in/charvgoyal/">LinkedIn</a> · <a href="cv_121325.pdf">CV</a> (Updated Dec 2025)</p>
+    <p><a href="https://www.linkedin.com/in/charvgoyal/">LinkedIn</a> · <a href="cv_121525.pdf">CV</a> (Updated Dec 2025)</p>
   </div>
   <div class="header-photo">
     <img src="photo.JPG" alt="Charvi Goyal">
