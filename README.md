@@ -35,7 +35,7 @@ Please reach out if you are interested in chatting about computer science, quant
 
   Publications of the Astronomical Society of the Pacific
 
-  \[[draft](./papers/varied_CR_feedback_FIRE.pdf)\] (submitted for peer review)
+  \[[arXiv](https://arxiv.org/abs/2512.11062)\] (submitted for peer review)
 
 ---
 
