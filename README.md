@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a fourth-year undergraduate at Caltech, majoring in computer science. I am interested in thoeretical quantum computation, quantum algorithms, and classical algorithms for quantum systems. My motivation for these research interests stems from the potential for exponential speedups with quantum computers and the possibility of actualizing that potential near-term. Previously, I have dabbled in machine learning and theoretical astrophysics as well.
+I'm a first-year Computer Science PhD student at NYU. I am interested in thoeretical quantum computation, quantum algorithms, and classical algorithms for quantum systems. My motivation for these research interests stems from the potential for exponential speedups with quantum computers and the possibility of actualizing that potential near-term. Previously, I have dabbled in machine learning and theoretical astrophysics as well.
 
 Please reach out if you are interested in chatting about computer science, quantum computing, or anything else!
 
@@ -27,7 +27,6 @@ Please reach out if you are interested in chatting about computer science, quant
 
   **Charvi Goyal**, Thomas Schuster, and John Preskill 
   
-  \[[draft](./papers/classical_algorithm_for_lindbladians.pdf)\] (extension in progress)
 
 - *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, expected 2025 
 
@@ -35,7 +34,7 @@ Please reach out if you are interested in chatting about computer science, quant
 
   Publications of the Astronomical Society of the Pacific
 
-  \[[arXiv](https://arxiv.org/abs/2512.11062)\] (submitted for peer review)
+  \[[paper](https://iopscience.iop.org/article/10.1088/1538-3873/ae4a4c)\] 
 
 ---
 
