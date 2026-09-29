@@ -1,8 +1,7 @@
 <div class="header-section">
   <div class="header-text">
     <h1>Charvi Goyal</h1>
-    <p><strong>Email:</strong> cgoyal [at] caltech [dot] edu<br>
-    <strong>Personal Email:</strong> charvi [dot] goyal [at] gmail [dot] com</p>
+    <p><strong>Email:</strong> cg5010 [at] nyu [dot] edu</p>
     <p><a href="https://www.linkedin.com/in/charvgoyal/">LinkedIn</a> · <a href="cv_121525.pdf">CV</a> (Updated Dec 2025)</p>
   </div>
   <div class="header-photo">
@@ -14,7 +13,11 @@
 
 ## About
 
+I'm a first-year Computer Science PhD student at NYU. I am interested in quantum algorithms, classical algorithms for quantum systems, and thoeretical quantum computation more generally. Previously, I have dabbled in machine learning and theoretical astrophysics as well. 
+
+<!--
 I'm a first-year Computer Science PhD student at NYU. I am interested in thoeretical quantum computation, quantum algorithms, and classical algorithms for quantum systems. My motivation for these research interests stems from the potential for exponential speedups with quantum computers and the possibility of actualizing that potential near-term. Previously, I have dabbled in machine learning and theoretical astrophysics as well.
+-->
 
 Please reach out if you are interested in chatting about computer science, quantum computing, or anything else!
 
