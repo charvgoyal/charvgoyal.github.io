@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a first-year Computer Science PhD student at NYU. I am interested in quantum algorithms, classical algorithms for quantum systems, and thoeretical quantum computation more generally. Previously, I have dabbled in machine learning and theoretical astrophysics as well. 
+I'm a first-year Computer Science PhD student at NYU, supported by the NSF GRFP Fellowship (DGE-2234660). I am interested in quantum algorithms, classical algorithms for quantum systems, and thoeretical quantum computation more generally. Previously, I have dabbled in machine learning and theoretical astrophysics as well. 
 
 <!--
 I'm a first-year Computer Science PhD student at NYU. I am interested in thoeretical quantum computation, quantum algorithms, and classical algorithms for quantum systems. My motivation for these research interests stems from the potential for exponential speedups with quantum computers and the possibility of actualizing that potential near-term. Previously, I have dabbled in machine learning and theoretical astrophysics as well.
