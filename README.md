@@ -26,12 +26,13 @@ Please reach out if you are interested in chatting about computer science, quant
 ## Manuscripts   
 {: .manuscripts-section}
 
+<!--
 - *A quasi-polynomial-time classical algorithm for Lindbladian evolution*, expected 2026
 
   **Charvi Goyal**, Thomas Schuster, and John Preskill 
-  
+-->
 
-- *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, expected 2025 
+- *Effects of Varied Cosmic Ray Feedback from AGN on Massive Galaxy Properties*, 2026 
 
   **Charvi Goyal**, Sam B. Ponnada, Philip F. Hopkins, Sarah Wellons, Jose A. Benavides, and Kung-Yi Su
 
